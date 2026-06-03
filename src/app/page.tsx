@@ -44,7 +44,7 @@ export default function LandingPage() {
         {
           name: "Contact",          id: "#contact"},
       ]}
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EcfUfFHrF6fpG4DgHQ6LCnEKwF/uploaded-1780482885397-dcnri1n7.png"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EcfUfFHrF6fpG4DgHQ6LCnEKwF/uploaded-1780482885334-dcnri1n7.png"
       logoAlt="Hortus Jannat Firenze Logo"
       brandName="Hortus Jannat Firenze"
       button={{
@@ -61,31 +61,31 @@ export default function LandingPage() {
       description="At Hortus Jannat Firenze, we curate exclusive niche perfumes for every connoisseur, blending world-class quality with the artistry of Italian perfumery."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-perfume-bottle-still-life_23-2149234380.jpg",          imageAlt: "Luxury Perfume Bottle with Gold Accents"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074229-4171221b212f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Luxury Perfume Bottle with Gold Accents"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cosmetic-product-container-with-art-nouveau-inspired-sun-relief-background_23-2151420680.jpg",          imageAlt: "Premium Perfume Bottle Studio Shot"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074127-1b0b7b1b3b1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Premium Perfume Bottle Studio Shot"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/liquor-square-bottle_176474-6075.jpg",          imageAlt: "Handcrafted Italian Perfume"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074164-9f20e5e0a0a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Handcrafted Italian Perfume"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-empty-perfume-bottle_23-2149234374.jpg",          imageAlt: "Exclusive Perfume Detailed Shot"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074000-8b0b7b0b3b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Exclusive Perfume Detailed Shot"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-arrangement-argan-oil-care-product_23-2148955834.jpg",          imageAlt: "Luxury Perfume on Dark Background"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074112-9f20e5e0a0a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Luxury Perfume on Dark Background"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/japanese-bottle-cups_23-2149869744.jpg",          imageAlt: "Niche Perfume Bottle Luxurious Display"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074001-8b0b7b0b3b1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Niche Perfume Bottle Luxurious Display"},
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cosmetic-product-container-with-art-nouveau-inspired-sun-relief-background_23-2151420694.jpg",          imageAlt: "Elegant Perfume in Luxurious Setting"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074230-4171221b2130?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Elegant Perfume in Luxurious Setting"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/sustainably-produced-alcoholic-beverage_23-2150163031.jpg",          imageAlt: "Premium Niche Perfume Bottle"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074128-1b0b7b1b3b1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Premium Niche Perfume Bottle"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/bottle-with-perfume-plants-purple-background-top-view_185193-162135.jpg",          imageAlt: "Exclusive Perfume for Daily Wear"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074165-9f20e5e0a0a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Exclusive Perfume for Daily Wear"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/decorative-arrangement-with-dried-fruits-flowers_23-2151367223.jpg",          imageAlt: "Traditional Italian Perfume"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074002-8b0b7b0b3b1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Traditional Italian Perfume"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-plastic-bottle-line_23-2148136623.jpg",          imageAlt: "Versatile Perfume Sizes Display"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074113-9f20e5e0a0a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Versatile Perfume Sizes Display"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-cosmetic-products_23-2149163128.jpg",          imageAlt: "Perfume Bottle with Gold and Royal Blue"},
+          imageSrc: "https://images.unsplash.com/photo-1616480074003-8b0b7b0b3b1f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",          imageAlt: "Perfume Bottle with Gold and Royal Blue"},
       ]}
       tag="Hortus Jannat Firenze"
       tagIcon={Sparkles}
